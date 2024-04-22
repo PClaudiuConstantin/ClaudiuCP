@@ -41,7 +41,7 @@
   </div>
 
 ###
-  <img align="right" height="180em" alt="Clau-monkey" src="[[https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif](https://giphy.com/embed/5Zesu5VPNGJlm)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc2bjJmbWw4Z3FjMGNuZXkwcWt4dWU3aWZjeGRqc25udGIzdGdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif)">  
+  <img align="right" height="180em" alt="Clau-monkey" src="https://tenor.com/view/spike-monkey-typing-gif-10973398">  
 </div>
   <p align="left"># 🛠 Tech that I still learn:</p>
 
