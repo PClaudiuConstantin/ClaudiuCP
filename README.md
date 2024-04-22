@@ -1,5 +1,5 @@
 # ClaudiuCP
-💫 About Me:
+💫 About Me:<br>
 💬 I'm Claudiu, an IT enthusiast who's all about tech and teamwork. I'm good at networking, databases, and hardware/software support.<br>⚡ Right now, I'm training to be a Security DevOps Engineer and diving into AWS. I've already got my AWS Cloud Practitioner certificate, and I'm working on more. <br>🤝 I'm passionate about using tech in day-to-day tasks & helping others.<br><br><br>
 
 
