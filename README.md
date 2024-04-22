@@ -76,3 +76,8 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ClaudiuCP/ClaudiuCP/output/snake.svg" alt="Snake animation" />
+
+###
+###
