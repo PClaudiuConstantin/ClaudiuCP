@@ -41,12 +41,12 @@
   </div>
 
 ###
-
+<img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+</div>
   <p align="left"># 🛠 Tech that I still learn:</p>
 
 ###
- <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-</div>
+ 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
     <img width="12" />
