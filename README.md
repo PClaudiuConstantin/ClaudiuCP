@@ -1,5 +1,5 @@
-# ClaudiuCP
-💫 About Me:<br>
+<h1 align="center">ClaudiuCP
+<h3 align="left">💫 About Me:<br>
 💬 I'm Claudiu, an IT enthusiast who's all about tech and teamwork. I'm good at networking, databases, and hardware/software support.<br>⚡ Right now, I'm training to be a Security DevOps Engineer and diving into AWS. I've already got my AWS Cloud Practitioner certificate, and I'm working on more. <br>🤝 I'm passionate about using tech in day-to-day tasks & helping others.<br><br><br>
 
 
@@ -17,4 +17,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Literally me
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+
+![giphy](https://github.com/PClaudiuConstantin/ClaudiuCP/assets/89938726/b933ed65-39e1-4896-96a4-ab8c018c0689)
