@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left"># 📫 How to reach me:</p>
+<p align="left"># 📫 Reach me at: purearea.cl@gmail.com or:</p>
 
 ###
 
@@ -72,10 +72,7 @@
   <a href="https://www.linkedin.com/in/claudiu-purcarea-4a903726b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a> <br>
-  <P>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-     - purcarea.cl@gmail.com
-  </P>
+  
 </div>
 
 ###
