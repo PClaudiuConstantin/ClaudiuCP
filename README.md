@@ -17,7 +17,7 @@
 <p align="left"># 🛠 Tech that I use:</p>
 
 ###
-<div>
+
   <div align="left">
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
     <img width="12" />
@@ -41,8 +41,7 @@
   </div>
 
 ###
-  <img align="right" height="180em" alt="Clau-monkey" src="[https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)">  
-</div>
+  
   <p align="left"># 🛠 Tech that I still learn:</p>
 
 ###
@@ -73,6 +72,10 @@
   <div align="left">
     <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
+  </div>
+
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/ClaudiuCP/count.svg?"  />
   </div>
 
 
