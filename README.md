@@ -41,7 +41,7 @@
   </div>
 
 ###
- <div align="right" style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/5Zesu5VPNGJlm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm">via GIPHY</a></p>
+  <img align="right" height="180em" alt="Clau-monkey" src="[https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif](https://giphy.com/embed/5Zesu5VPNGJlm)">  
 </div>
   <p align="left"># 🛠 Tech that I still learn:</p>
 
