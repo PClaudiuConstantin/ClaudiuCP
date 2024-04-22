@@ -18,7 +18,7 @@
 
 ###
 
-  <div align="left">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  </div>
+</div>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
  
-  <div align="left">
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
@@ -64,19 +64,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  </div>
+</div>
 
  
 ###
 
-  <p align="left"># 📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=purearea.cl@gmail.com&su=SUBJECT&body=BODY">purearea.cl@gmail.com</a> or:</p>
+<p align="left"># 📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=purearea.cl@gmail.com&su=SUBJECT&body=BODY">purearea.cl@gmail.com</a> or:</p>
   
   ###
   
-  <div align="left">
+<div align="left">
     <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-  </div>
+</div>
 
 ###
 
