@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left"># 📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=purearea.cl@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com">purearea.cl@gmail.com</a> or:</p>
+<p align="left"># 📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=purearea.cl@gmail.com&su=SUBJECT&body=BODY">purearea.cl@gmail.com</a> or:</p>
 
 ###
 
