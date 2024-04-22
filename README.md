@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left"># 📫 Reach me at: purearea.cl@gmail.com or:</p>
+<p align="left"># 📫 Reach me at <a href="#">purearea.cl@gmail.com</a> or:</p>
 
 ###
 
