@@ -41,7 +41,7 @@
   </div>
 
 ###
-  <img align="right" height="180em" alt="Clau-monkey" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif">  
+  <img align="right" height="180em" alt="Clau-monkey" src="[https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)">  
 </div>
   <p align="left"># 🛠 Tech that I still learn:</p>
 
