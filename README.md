@@ -41,6 +41,10 @@
   </div>
 
 ###
+
+  <img align="right" height="150" src="https://i.imgflip.com/5hkrgo.gif"   />
+
+###
   
   <p align="left"># 🛠 Tech that I still learn:</p>
 
@@ -74,8 +78,6 @@
     
   </div>
 
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/ClaudiuCP/count.svg?"  />
-  </div>
+###
 
 
