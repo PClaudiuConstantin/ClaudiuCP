@@ -80,9 +80,12 @@
 <details open>
      <summary><h2>📘 My Projects</h2></summary>
      <p align="left">
-           <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" alt="Simple_Slot_Machine"></a>
-           <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" src="https://repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Simple_Slot_Machine"></a>
-     </p>
+           
+ <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine" style="display:inline-block; padding:10px; background-color:#1F222E; border-radius:5px; color:white; text-decoration:none; max-width:278px;">
+     <span style="color:#F85D7F; font-weight:bold;">Custom Title</span>
+
+
+</p>
 </details>
 
 ###
