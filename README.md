@@ -78,10 +78,10 @@
 </div>
 
 <details open>
-     <summary><h2>📘 My Projects - Click on icon for redirect</h2></summary>
-     <div align="left" href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine">
-         <p  style="color:#F85D7F; font-weight:bold;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />Simple Slot Machine</p>
- </div>    
+    <summary><h3>📘 My Projects - Click on icon for redirect</h3></summary>
+    <div align="left" style="display:inline-block; padding:10px; background-color:#1F222E; border-radius:5px; color:white; text-decoration:none; max-width:278px;" >
+         <p><img align="center" href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />Simple Slot Machine</p>
+    </div>    
 </details>
 
 ###
