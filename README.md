@@ -78,9 +78,9 @@
 </div>
 
 <details open>
-     <summary><h2>📘 My Projects</h2></summary>
+     <summary><h2>📘 My Projects - Click on icon for redirect</h2></summary>
      <div align="left" href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine">
-         <h4><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />Simple Slot Machine</h4>
+         <p  style="color:#F85D7F; font-weight:bold;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />Simple Slot Machine</p>
  </div>    
 </details>
 
