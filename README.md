@@ -81,7 +81,7 @@
      <summary><h2>📘 My Projects</h2></summary>
      <p align="left">
            <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" alt="Simple_Slot_Machine"></a>
-           <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Simple_Slot_Machine"></a>
+           <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" src="https://repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Simple_Slot_Machine"></a>
      </p>
 </details>
 
