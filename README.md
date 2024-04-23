@@ -80,9 +80,10 @@
 <details open>
      <summary><h2>📘 My Projects</h2></summary>
      <p align="left">
-           
- <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine" style="display:inline-block; padding:10px; background-color:#1F222E; border-radius:5px; color:white; text-decoration:none; max-width:278px;">
-     <span style="color:#F85D7F; font-weight:bold;">Custom Title</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
+        <img width="12" />
+        <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" alt="Simple_Slot_Machine"></a>
+
 
 
 </p>
