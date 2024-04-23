@@ -79,14 +79,10 @@
 
 <details open>
      <summary><h2>📘 My Projects</h2></summary>
-     <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
-        <img width="12" />
+     <p align="left" align="center"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
         <a href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine"><img width="278" alt="Simple_Slot_Machine"></a>
-
-
-
-</p>
+      </p>
 </details>
 
 ###
