@@ -80,7 +80,7 @@
 <details open>
      <summary><h2>📘 My Projects</h2></summary>
      <div align="left">
-         <h3><img align="center" href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />Simple Slot Machine</h3>
+         <h3><img align="center" href="https://github.com/PClaudiuConstantin/Simple_Slot_Machine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />Simple Slot Machine</h3>
  </div>    
 </details>
 
